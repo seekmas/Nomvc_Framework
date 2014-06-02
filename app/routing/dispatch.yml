@@ -1,0 +1,3 @@
+user_request:
+    request: /user/{name}_{id}.{_format}
+	provider: user/User
